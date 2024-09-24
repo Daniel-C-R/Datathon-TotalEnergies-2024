@@ -8,7 +8,7 @@ Todo el código que he implementado se encuentra en el archivo `optimizer.py`. S
 
 Para poder ejecutar el simulador es necesario instalar todas las dependencias que se listan en el archivo `requirements.txt`. No obstante, para la solución al reto han sido necesarios algunos paquetes más, por lo que si se desea ejecutar el optimizador es necesario instalar todas las librerías enumeradas en `librerias.txt` en su lugar.
 
-También, se incluyen las diapositivas que utilicé para presentar mi solución en el *All Electric Society International Summit* el 19/09/2024 en Gijón, donde obtuve el prémio a la solución más creativa.
+También, se incluyen las diapositivas que utilicé para presentar mi solución en el *All Electric Society International Summit* el 19/09/2024 en Gijón, donde obtuve el premio a la solución más creativa.
 
 ---
 
