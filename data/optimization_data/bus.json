@@ -1,0 +1,20 @@
+{
+    "description": "Parámetros de entrada para definir el espacio de búsqueda del problema de optimización de los autobuses eléctricos.",
+    "parameters": {
+        "battery_capacity": {
+                "min_value": 200,
+                "max_value": 800,
+                "unit": "kWh"
+        },
+            "battery_min_charge": {
+                "min_value": 10,
+                "max_value": 45,
+                "unit": "percentage"
+        },
+            "battery_max_charge": {
+                "min_value": 55,
+                "max_value": 100,
+                "unit": "percentage"
+        }
+    }
+}

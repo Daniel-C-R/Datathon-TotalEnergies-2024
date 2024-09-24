@@ -1,0 +1,2 @@
+consumption_Wh,NOx_g,CO_g,HC_g,PM_g,CO2_g,battery_degradation_%,bus_cost,consumption_cost,availability_time_s,unavailability_time_s,n_buses,total_time_below_min_soc_s
+262174.1853553624,0.0,0.0,0.0,0.0,0.0,0.018711537486027906,540300.0,39326.13,30157.26682800839,0.0,1,0
